@@ -14,7 +14,7 @@
   box-shadow: 0 4px 12px 1px transparentize($near-black, .5);
 
   a {
-    color: $near-white;
+    color: white;
     &:not(.btn--call-to-action):hover {
       color: $link-color-hover;
     }
